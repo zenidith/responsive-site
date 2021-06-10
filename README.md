@@ -10,4 +10,6 @@ Features that I covered in this project:
 - media queries (to use on several size screens)
 - build and style navigation
 
+The project can be viewed live [here](https://zenidith.github.io/responsive-site/)
+
 Happy Coding!
