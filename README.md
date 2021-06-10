@@ -1,19 +1,13 @@
-# title(){
-		
-		return this.options.title || this.options.name;
-	}
+This project was a really fun one where I focused on honing my responsive design skills by looking at a [design spec](https://xd.adobe.com/spec/75d448ea-569a-4b7e-721b-9bbd3b2b97b9-03e5/grid) initially and then breaking it down. I started off by coding the Nav responsively first then systematically broke down the different sections of the website and made them responsive to display the mobile version when minimized to a certain width. Then, I flipped it around to display the desktop version if maximized to a certain width. This technique is designed to start thinking responsively from the beginning.💡 
 
-## Supporting Scrimba
+After that, I broke up the different pages and ensured that they were all working. I put different padding on articles and border bottom on the side widget articles. Another feature that I added was the highlighting the current page to ensure easy naviation. 
 
-Since 2017, we have created over 20 free courses on Scrimba, and we're going to
-continue launching free courses. But to pay our bills, we have to charge once
-in a while. So if you've ever wanted to "give back" to Scrimba, you can do that by buying
-	one of our paid courses
 
-- [Become a professional React developer](https://scrimba.com/course/greact)
-- [The Responsive Web Design Bootcamp](https://scrimba.com/course/gresponsive)
-- [The Ultimate JavaScript Bootcamp](https://scrimba.com/course/gjavascript)
-
-	It would also mean the world to us if you share the courses.  
+Features that I covered in this project:
+- flexbox
+- justify-content and align items (for nav bar and containers)
+- flex-direction (switching the main axis)
+- media queries (to use on several size screens)
+- build and style navigation
 
 Happy Coding!
